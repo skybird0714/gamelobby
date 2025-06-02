@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             icon: 'ba.png',
             name: 'BAguesser',
-            description: '根据提示来猜测蔚蓝档案人物（制作中）',
+            description: '根据提示来猜测蔚蓝档案人物',
             link: 'https://baguesser.071400.xyz/'
         },
         {
